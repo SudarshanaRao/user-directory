@@ -84,5 +84,15 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 
 ## Screenshots
 
+### LIGHT MODE 
+![Image-1](public/Image-1.png)
 
+![Light-User-Details](public/Ligh-User-Details.png)
+
+### DARK MODE
+![Dark-Mode](public/Dark-Mode.png)
+
+![Dark-Search](public/Dark-Search.png)
+
+![Dark-User-Details](public/Dark-User-Details.png)
 
