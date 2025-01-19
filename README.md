@@ -82,6 +82,7 @@ This command will remove the single build dependency from your project. **Note:*
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Screenshots
+
+
 
