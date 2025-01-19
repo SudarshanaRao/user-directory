@@ -24,7 +24,7 @@ Follow these steps to download and run the project locally:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/user-directory.git
+git clone https://github.com/SudarshanaRao/user-directory.git
 ```
 
 ### 2. Navigate to the project folder
